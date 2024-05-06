@@ -11,3 +11,6 @@
 [branch "main"]
 	remote = origin
 	merge = refs/heads/main
+[gui]
+	wmstate = normal
+	geometry = 893x435+78+78 175 196
